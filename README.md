@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ummuhankavas">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=UmmuhanKavas">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm++Ummuhankavas....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm++Ummuhan Kavas....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -25,13 +25,13 @@
   <br>
   📚 I'm currently learning JAVASCRİPT,REACT,HTML,CSS,Python,Django.
   <br>
-  :speech_balloon: Ask me anything about from <a href="https://github.com/issues" title="Issues">Here</a>
+  💭 Ask me anything about from <a href="https://github.com/issues" title="Issues">Here</a>
   <br>
-  :mailbox: How to reach me: <a href="ummuhankavas@gmail.com">ummuhankavas@gmail.com</a>
+  📧 How to reach me: <a href="ummuhankavas@gmail.com">ummuhankavas@gmail.com</a>
 </p>
 <hr>
 
-<h2 align="center">:fire: Languages & Frameworks & Tools & Abilities :fire:</h2>
+<h2 align="center">⚡ Languages & Frameworks & Tools & Abilities ⚡</h2>
 <br>
 <p align="center">
   <code><img title="Python" height="25" src="img/python-original.svg"></code>
@@ -49,7 +49,7 @@
 <hr>
 
 
-<h2 align="center">:zap: Stats :zap:</h2>
+<h2 align="center">🎯 Stats 🎯</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -70,17 +70,17 @@
   </div>
 
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Aslihan06&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Ummuhankavas&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   </p>
   <hr>
-  <h2 align="center">:male-technologist: Repositories :male-technologist:</h2>
+  <h2 align="center">💾 Repositories 💾</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Ummuhankavas/ummuhankavas.github.io"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ummuhankavas&repo=Ummuhankavas.github.io&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Aslihan06/SQL" title="SQL"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aslihan06&repo=SQL&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Ummuhankavas/ummuhankavas.github.io"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ummuhankavas&repo=Ummuhankavas.github.io&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Ummuhankavas/Netflix" title="Netflix"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ummuhankavas&repo=Netflix&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Ummuhankavas/ummuhankavas.github.io" title="html-example"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ummuhankavas&repo=html-example&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Aslihan06/kodluyoruzilkrepo" title="kodluyoruzilkrepo"><img align="right" height="133" src="https://github-readme-stats.vercel.app/api/pin/?username=Aslihan06&repo=kodluyoruzilkrepo&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Ummuhankavas/surway-page" title="surway-page"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ummuhankavas&repo=surway-page&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Ummuhankavas/Voltran" title="Voltran"><img align="right" height="133" src="https://github-readme-stats.vercel.app/api/pin/?username=Ummuhankavas&repo=Voltran&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
