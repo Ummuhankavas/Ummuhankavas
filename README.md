@@ -80,7 +80,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Ummuhankavas/surway-page" title="surway-page"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ummuhankavas&repo=surway-page&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Ummuhankavas/Voltran" title="Voltran"><img align="right" height="133" src="https://github-readme-stats.vercel.app/api/pin/?username=Ummuhankavas&repo=Voltran&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Ummuhankavas/surway-page" title="surway-page"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ummuhankavas&repo=surway-page&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Ummuhankavas/Voltran" title="Voltran"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ummuhankavas&repo=Voltran&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
